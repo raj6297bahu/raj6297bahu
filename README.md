@@ -65,16 +65,20 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raj6297bahu)](https://git.io/streak-stats)"/>
+
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raj6297bahu&theme=github_dark" width="49%" &cache_seconds=1800/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raj6297bahu&theme=github_dark" width="49%" />
 </p>
 
-<p align="center">
-  <img src="![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=raj6297bahu&show_icons=true&theme=radical)"/>
-</p>
+
+
+
 
 ---
+
 
 ### 🌟 “Consistency builds engineers. Discipline builds careers.”
