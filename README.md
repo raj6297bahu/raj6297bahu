@@ -68,11 +68,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raj6297bahu&show_icons=true&theme=tokyonight" />
+  <img src="[![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=raj6297bahu)](https://github.com/raj6297bahu/github-readme-stats)" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=raj6297bahu&theme=tokyonight" />
+  <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raj6297bahu)](https://git.io/streak-stats)" />
 </p>
 
 ---
