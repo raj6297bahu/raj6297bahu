@@ -17,14 +17,6 @@
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"
-    width="700"
-    alt="AI Coding"
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
     alt="snake animation"
   />
@@ -172,7 +164,7 @@
 
 # 📚 Currently Learning
 
-```python
+python
 class CurrentFocus:
 
     learning = [
