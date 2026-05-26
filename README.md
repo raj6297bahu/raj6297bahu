@@ -7,11 +7,11 @@
 
 ---
 
-<p align="center">
+<p align="right">
   <img 
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x0YjF4dWh2bXAyZ2x3djVtbzI2NXA5d2I4aW82dmx6YWg2N3drMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif"
-    width="700"
-    alt="AI Engineer Banner"
+    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+    width="300"
+    alt="Cyber AI"
   />
 </p>
 
