@@ -162,30 +162,35 @@ class CurrentFocus:
     goal = "Become a Production-Level AI Engineer 🚀"
 
 
-📈 GitHub Analytics
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raj6297bahu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180em"/> </p>
+
+📈 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=raj6297bahu&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj6297bahu&layout=compact&theme=tokyonight&hide_border=true" height="180em"/> </p>
+
+🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raj6297bahu&theme=tokyonight&hide_border=true" />
+</p>
+
 
 📊 Contribution Graph
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-GITHUB-USERNAME&theme=tokyonight"/> </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj6297bahu&theme=tokyonight" />
+</p>
 
 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/> </p>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raj6297bahu&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ✨ Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p>
-
-
-💭 AI Engineering Quote
-
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
-<h3 align="center"> 🚀 Building AI-Powered Systems That Solve Real-World Problems </h3> ```
-
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raj6297bahu&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
