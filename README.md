@@ -164,7 +164,7 @@
 
 # 📚 Currently Learning
 
-python
+```python
 class CurrentFocus:
 
     learning = [
@@ -178,7 +178,7 @@ class CurrentFocus:
     ]
 
     goal = "Become a Production-Level AI Engineer 🚀"
-
+```
 
 📊 GitHub Stats
 <p align="center">
