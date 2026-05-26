@@ -7,7 +7,13 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img 
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x0YjF4dWh2bXAyZ2x3djVtbzI2NXA5d2I4aW82dmx6YWg2N3drMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif"
+    width="700"
+    alt="AI Engineer Banner"
+  />
+</p>
 
 ## 🚀 About Me
 
