@@ -7,13 +7,33 @@
 
 ---
 
-<p align="right">
+<p align="center">
   <img 
     src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-    width="300"
+    width="700"
     alt="Cyber AI"
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"
+    width="700"
+    alt="AI Coding"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="snake animation"
+  />
+</p>
+
+
+
+
+
 
 ## 🚀 About Me
 
