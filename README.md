@@ -9,6 +9,33 @@
 
 <p align="center">
   <img 
+    src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2070&auto=format&fit=crop"
+    width="100%"
+    alt="AI Banner"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2070&auto=format&fit=crop"
+    width="100%"
+    alt="AI Neural Banner"
+  />
+</p>
+
+<h1 align="center">Rajdeep Mukherjee</h1>
+
+<p align="center">
+AI/ML Engineer • Backend Developer • Generative AI
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;FastAPI+%7C+LLMs+%7C+GraphRAG;Python+Backend+Engineer;Generative+AI+Developer" />
+</p>
+
+
+<p align="center">
+  <img 
     src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
     width="700"
     alt="Cyber AI"
