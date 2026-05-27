@@ -182,12 +182,8 @@ class CurrentFocus:
 
 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raj6297bahu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://img.shields.io/badge/Performance-A+-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=ffffff" />
 </p>
-
-
-📈 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=raj6297bahu&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj6297bahu&layout=compact&theme=tokyonight&hide_border=true" height="180em"/> </p>
 
 🔥 GitHub Streak
 <p align="center">
