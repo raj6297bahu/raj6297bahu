@@ -200,16 +200,6 @@ class CurrentFocus:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj6297bahu&theme=tokyonight" />
 </p>
 
-🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raj6297bahu&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-✨ Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raj6297bahu&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 
